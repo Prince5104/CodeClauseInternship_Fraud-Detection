@@ -20,3 +20,12 @@ The goal of this project is to identify fraudulent transactions in a highly imba
 - Matplotlib, Seaborn
 - Scikit-learn
 - imbalanced-learn (SMOTE)
+
+## 🔗 Links
+
+- 🔍 (https://www.linkedin.com/posts/prince-raj-tech_credit-card-fraud-detection-internship-project-activity-7350091083659280384-Pd_b?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIRMJsBwI3LN73-bwKU45MZT0znhLp6Cfs
+)
+## 👨‍💻 Author
+
+**Prince Raj**  
+Data Science Intern | CodeClause – July 2025  
