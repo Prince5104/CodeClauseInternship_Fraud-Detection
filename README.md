@@ -32,17 +32,21 @@ This project solves that by predicting a **fraud probability score** for each tr
 - │ └── credit_card_fraud_detection_basic.ipynb
 - │
 - ├── production_app/
-- │ ├── data/
 - │ ├── notebooks/
 - │ ├── src/
-- │ │ ├── preprocessing.py
+- │ │ ├── data_loader.py
+- │ | ├── evaluate.py
+- │ | ├── feature_engineering.py
+- │ | ├── preprocessing.py
+- │ │ ├── train.py 
 - │ │ ├── sampling.py
-- │ │ ├── train.py
-- │ │ └── predict.py
+- │ │ └── predict.py 
 - │ ├── models/
 - │ │ └── fraud_xgb.pkl
 - │ ├── dashboard/
 - │ │ └── dashboard.py
+- | ├── api/
+- │ │ └── app.py
 - │ ├── run_training.py
 - │ └── requirements.txt
 - │
