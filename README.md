@@ -62,7 +62,7 @@ This project solves that by predicting a **fraud probability score** for each tr
 
 ---
 
-## 🧪 Internship Submission (July 2025)
+##  Internship Submission (July 2025)
 
 The original internship work includes:
 
@@ -104,7 +104,7 @@ After the internship, the project was upgraded to follow **industry best practic
 
 ---
 
-## 🖥️ How to Run This Project on Your System
+##  How to Run This Project on Your System
 
 Follow these steps exactly to run the application locally.
 
@@ -149,6 +149,6 @@ Downloadable CSV report
 No coding knowledge is required to use it. 
 
 ## If you want to connect with me follow me on:
-  Linkedin: [www.linkedin.com/in/prince-raj-tech](https://www.linkedin.com/in/prince-raj-tech/)
-  Youtube channel: https://www.youtube.com/@SynapseSpaceData
+   - Linkedin: [www.linkedin.com/in/prince-raj-tech](https://www.linkedin.com/in/prince-raj-tech/)
+   - Youtube channel: https://www.youtube.com/@SynapseSpaceData
   
