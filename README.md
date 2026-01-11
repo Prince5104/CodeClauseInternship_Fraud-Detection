@@ -7,7 +7,7 @@
 
 This repository contains my **Credit Card Fraud Detection** project, originally submitted during my **CodeClause Data Science Internship (July 2025)** and later upgraded into a **production-ready, user-friendly machine learning application**.
 
-The goal of this project is not just to build a model, but to show **how data science is used in the real world** — from raw data to a system that **non-technical users can actually use**.
+The goal of this project is not just to build a model, but to show **how data science is used in the real world** from raw data to a system that **non-technical users can actually use**.
 
 ---
 
@@ -26,27 +26,27 @@ This project solves that by predicting a **fraud probability score** for each tr
 
 ## 🗂️ Repository Structure
 
-CodeClauseInternship_Fraud-Detection/
-│
-├── internship_submission/
-│ └── credit_card_fraud_detection_basic.ipynb
-│
-├── production_app/
-│ ├── data/
-│ ├── notebooks/
-│ ├── src/
-│ │ ├── preprocessing.py
-│ │ ├── sampling.py
-│ │ ├── train.py
-│ │ └── predict.py
-│ ├── models/
-│ │ └── fraud_xgb.pkl
-│ ├── dashboard/
-│ │ └── dashboard.py
-│ ├── run_training.py
-│ └── requirements.txt
-│
-└── README.md
+- CodeClauseInternship_Fraud-Detection/
+- │
+- ├── internship_submission/
+- │ └── credit_card_fraud_detection_basic.ipynb
+- │
+- ├── production_app/
+- │ ├── data/
+- │ ├── notebooks/
+- │ ├── src/
+- │ │ ├── preprocessing.py
+- │ │ ├── sampling.py
+- │ │ ├── train.py
+- │ │ └── predict.py
+- │ ├── models/
+- │ │ └── fraud_xgb.pkl
+- │ ├── dashboard/
+- │ │ └── dashboard.py
+- │ ├── run_training.py
+- │ └── requirements.txt
+- │
+- └── README.md
 
 
 ---
