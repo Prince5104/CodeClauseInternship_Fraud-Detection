@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (large datasets)
+production_app/data/
+
+# OS files
+.DS_Store
